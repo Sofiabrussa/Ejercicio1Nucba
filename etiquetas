@@ -1,0 +1,32 @@
+<!-- ETIQUETAS ESTRUCTURALES -->
+Me estrucutran las paginas web 
+
+<div></div> Agrupa texto 
+<section></section>
+<aside></aside>
+<header></header> Es la cabecera de mi pagina web 
+<article></article>
+<footer></footer> pie de pagina 
+<span></span>
+<main></main>
+
+<!-- ETIQUETAS PRINCIPALES --> 
+
+<P> </P>  parraafo
+<br> permite un salto de linea 
+<H1> </H1> titulos
+<OL> </OL> listas ordenadas
+<UL> </UL> listas desordenadas
+<LI> </LI> item de cada lista 
+<a> </a> 
+<TABLE> </TABLE>
+<img> </img> 
+<form> </form>
+<nav> Contiene otro sitio web
+<aside> Para colocar un menu al costado
+<a> href="" </a> hace referencia a un sitio web 
+target="_blank" es un atributo que hace que la pagina web se abra en otra pestaña 
+<nav>: La etiqueta nav se utiliza para marcar una sección del documento cuya función es la navegación por el sitio.
+<button> Permite crear un boton 
+<input type="text" placeholder="Ingresa tu email"> permite un campo para ingresar texto 
+<textarea></textarea> Es un input que permite agrandarlo y achhicarlo segun el usuario quiera 

@@ -1,0 +1,45 @@
+
+<html>
+
+    <head> </head>
+    <body> 
+        <button type="submit">Soy un boton</button> <!-- se usa tipo boton submit cuando usamos formularios --> 
+        <a href="https://www.google.com" target="_blank" > soy un link a google </a>
+        <br> 
+        <input type="text" placeholder="Ingrese email"> 
+        
+        <form> <!--formularios -->
+            <h2> Que te parece mi pagina web? </h2>
+            <label for="Respuesta: "> Respuesta: </label>
+            <input id="Respuesta: " type="text">
+
+            <h2> Le cambiarias algo? </h2>
+            <label for="algo" > Que cosa? </label>
+            <select id="algo"  >  <!--Es un combobox-->
+                <option> color </option>
+                <option> forma </option>
+                <option> imagenes </option>
+                <option> forma </option>    
+            </select>
+            
+            <div>
+                <label> Te gustaria viajar? </label> 
+                <input name="viajar" type="radio" id="si" checked> <!-- checked sirve para que venga por defecto el si-->
+                <label for="si"> Si </label>
+                <input name="viajar" type="radio" id="No">
+                <label for="No"> No </label>
+            </div>
+
+            <div> 
+                <label for="texto" > Por ultimo describi como te sentis: </label>
+                <br>
+                <textarea id="texto"> </textarea>
+            </div>
+
+            <button> Enviar </button>
+
+        </form>
+    </body>
+</html>
+
+
